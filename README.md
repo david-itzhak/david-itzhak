@@ -27,6 +27,11 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=david-itzhak)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  🌱 I’m currently learning: 
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
 <!--
 **david-itzhak/david-itzhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
