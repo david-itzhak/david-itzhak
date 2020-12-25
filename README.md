@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm David Itzhak</h1>
+<h1 align="center">Hi there 👋, I'm David Izhak</h1>
 <h3 align="center">Fullstack developer and programming enthusiast from Israel</h3>
 <p>
 I am currently looking for a job as a Java developer.
