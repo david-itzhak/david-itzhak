@@ -31,7 +31,7 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 
 <p align="center">
   🌱 I’m currently learning: 
-  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40"/>
 </p>
 <!--
 **david-itzhak/david-itzhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
