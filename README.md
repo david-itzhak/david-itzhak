@@ -8,7 +8,7 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
