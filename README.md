@@ -11,7 +11,7 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" height="40"/>
