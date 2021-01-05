@@ -13,13 +13,13 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://images.squarespace-cdn.com/content/v1/5698b02fc647ad16c048a064/1453834738183-N0USVLBK1WDE8VP7OZ6V/ke17ZwdGBToddI8pDm48kI2JGN0osPFmwQJyjm-VrLZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjpPGXQzcbk-CNCZNbZ16YBJXckMe7cBW2M4-UEc1u3g/logo-800x188.png" alt="redux" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/680px-Maven_logo.svg.png" alt="redux" height="40"/>
