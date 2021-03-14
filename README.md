@@ -23,6 +23,7 @@ I am a neat and hardworking person with an analytical and flexible mind. I devot
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/640px-Redux_Logo.png" alt="redux" height="40"/>
 <img src="https://images.squarespace-cdn.com/content/v1/5698b02fc647ad16c048a064/1453834738183-N0USVLBK1WDE8VP7OZ6V/ke17ZwdGBToddI8pDm48kI2JGN0osPFmwQJyjm-VrLZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjpPGXQzcbk-CNCZNbZ16YBJXckMe7cBW2M4-UEc1u3g/logo-800x188.png" alt="redux" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/680px-Maven_logo.svg.png" alt="redux" height="40"/>
+<img src="https://github.com/david-itzhak/david-itzhak/blob/62ca244bd288f9afdb52060d365235f79f3fddd1/docker.png" alt="redux" height="40"/>
 </p>
 
 
